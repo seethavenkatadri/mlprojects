@@ -5,13 +5,13 @@ Welcome to my comprehensive Machine Learning projects repository! This is where 
 ## 📁 Repository Structure
 
 ```
+-- Current folder structure
 📂 ml-projects/
 ├── 📂 coursework/          # UT Austin PGP AI/ML Projects
 -- Vision of this repo
 ├── 📂 personal-projects/   # Independent ML Projects  
 ├── 📂 kaggle-competitions/ # Competition Solutions
 ├── 📂 production-demos/    # Production-Ready ML Apps
-└── 📂 research-experiments/ # ML Research & Experiments
 ```
 
 ## 🎓 Academic Work
