@@ -7,6 +7,7 @@ Welcome to my comprehensive Machine Learning projects repository! This is where 
 ```
 📂 ml-projects/
 ├── 📂 coursework/          # UT Austin PGP AI/ML Projects
+-- Vision of this repo
 ├── 📂 personal-projects/   # Independent ML Projects  
 ├── 📂 kaggle-competitions/ # Competition Solutions
 ├── 📂 production-demos/    # Production-Ready ML Apps
@@ -48,7 +49,7 @@ Coming Soon..
 
 ## 📈 Learning Journey
 
-This repository reflects my evolution from **data engineering** background to **machine learning engineering**:
+This repository reflects my venture into **machine learning engineering**:
 
 1. **Foundation** → Academic coursework with business applications
 2. **Practice** → Personal projects and competitions
@@ -67,8 +68,7 @@ Next steps..
 
 ## 📊 Project Highlights
 
-🏆 **6 Completed Academic Projects** spanning NLP, Computer Vision, and Predictive Analytics  
-🔧 **Production-Ready Code** with proper documentation and testing  
+🏆 **6 Completed Academic Projects** spanning NLP, Computer Vision, and Predictive Analytics   
 📚 **Comprehensive Documentation** for learning and reference  
 🌟 **Industry-Relevant Applications** in fintech, healthcare, and e-commerce  
 
